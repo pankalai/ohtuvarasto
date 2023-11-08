@@ -18,9 +18,9 @@ def main():
     print("Lisätään 50.7")
     mehua.lisaa_varastoon(50.7)
     print(f"Mehuvarasto: {mehua}")
-    print("Otetaan 3.14")
+    #print("Otetaan 3.14")
     mehua.ota_varastosta(3.14)
-    print(f"Mehuvarasto: {mehua}")
+    #print(f"Mehuvarasto: {mehua}")
 
     # print("Virhetilanteita:")
     # print("Varasto(-100.0);")
